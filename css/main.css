@@ -25,3 +25,15 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+/* Hero styles */
+
+.hero-title {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 1.3;
+    color: #000000;
+    text-transform: uppercase;
+    width: 386px;
+    margin-bottom: 40px;
+}
